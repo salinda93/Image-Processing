@@ -1,0 +1,11 @@
+D:\Visual Studio 2019 workspace\Image Proccessing BAsic\Image Proccessing BAsic\bin\Debug\Image Proccessing BAsic.exe.config
+D:\Visual Studio 2019 workspace\Image Proccessing BAsic\Image Proccessing BAsic\bin\Debug\Image Proccessing BAsic.exe
+D:\Visual Studio 2019 workspace\Image Proccessing BAsic\Image Proccessing BAsic\bin\Debug\Image Proccessing BAsic.pdb
+D:\Visual Studio 2019 workspace\Image Proccessing BAsic\Image Proccessing BAsic\bin\Debug\OpenCvSharp.dll
+D:\Visual Studio 2019 workspace\Image Proccessing BAsic\Image Proccessing BAsic\obj\Debug\Image Proccessing BAsic.csprojAssemblyReference.cache
+D:\Visual Studio 2019 workspace\Image Proccessing BAsic\Image Proccessing BAsic\obj\Debug\Image_Proccessing_BAsic.Form1.resources
+D:\Visual Studio 2019 workspace\Image Proccessing BAsic\Image Proccessing BAsic\obj\Debug\Image_Proccessing_BAsic.Properties.Resources.resources
+D:\Visual Studio 2019 workspace\Image Proccessing BAsic\Image Proccessing BAsic\obj\Debug\Image Proccessing BAsic.csproj.GenerateResource.cache
+D:\Visual Studio 2019 workspace\Image Proccessing BAsic\Image Proccessing BAsic\obj\Debug\Image Proccessing BAsic.csproj.CopyComplete
+D:\Visual Studio 2019 workspace\Image Proccessing BAsic\Image Proccessing BAsic\obj\Debug\Image Proccessing BAsic.exe
+D:\Visual Studio 2019 workspace\Image Proccessing BAsic\Image Proccessing BAsic\obj\Debug\Image Proccessing BAsic.pdb
